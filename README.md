@@ -1,1 +1,1 @@
-# prebuilt_android_stuff
+Prebuilt android binaries, shared objects & firmware
